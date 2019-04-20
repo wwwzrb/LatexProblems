@@ -39,6 +39,7 @@ Solutions:
              ii. Convert dvi to ps; Open os in GSview; Write as eps by ps2write in GSviw (Convert); Convert eps to pdf by Adobe.
           
   References:
+  
   4.  https://blog.csdn.net/xu_fengyu/article/details/87192066
   
       https://www.zhihu.com/question/24975110
