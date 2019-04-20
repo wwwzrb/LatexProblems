@@ -20,9 +20,7 @@ Solutions:
       (2) Convert eps to ps in GSview
          ps2write 600
       (3) Convert ps to eps in GSview
-      References:
-      https://blog.csdn.net/xu_fengyu/article/details/87192066
-      https://www.zhihu.com/question/24975110
+
     5. Cannot open Type 1 font file for reading in MikTex. (Only for MikTex and MikTex based release version)
       (1) Run the following line in windows cmd.
           initexmf --edit-config-file updmap
@@ -39,11 +37,21 @@ Solutions:
           b. Texify generates a dvi file. However, the pdf file is not complete if converting dvi to pdf by dvipdf directly. Two successful methods provided here.
              i.  Convert dvi to ps; Open ps in GSview; Write as pdf by pdfwrite in GSviw (Convert).
              ii. Convert dvi to ps; Open os in GSview; Write as eps by ps2write in GSviw (Convert); Convert eps to pdf by Adobe.
-      References:
-      https://www.aeaweb.org/content/file?id=3042
+          
+  References:
+  4.  https://blog.csdn.net/xu_fengyu/article/details/87192066
+  
+      https://www.zhihu.com/question/24975110
+      
+  5.  https://www.aeaweb.org/content/file?id=3042
+  
       https://tex.stackexchange.com/questions/152721/problems-with-fonts/152749
+      
       http://www.tug.org/fonts/fontinstall.html
+      
       https://tex.stackexchange.com/questions/88423/manual-font-installation/88424#88424
+      
       https://blog.csdn.net/xu_fengyu/article/details/87192066
+      
              
           
