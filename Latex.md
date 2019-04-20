@@ -62,8 +62,7 @@ Solutions:
              Two successful methods provided here.
              i.  Convert dvi to ps; Open ps in GSview; 
                  Write as pdf by pdfwrite in GSviw (Convert).
-             ii. Convert dvi to ps; 
-                 Open os in GSview; 
+             ii. Convert dvi to ps; Open ps in GSview; 
                  Write as eps by ps2write in GSviw (Convert); 
                  Convert eps to pdf by Adobe.
           
