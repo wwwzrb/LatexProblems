@@ -60,6 +60,7 @@ Solutions:
           a. Pdftexify will generate pdf without any problem directly.
           b. Texify generates a dvi file. However, the pdf file is not complete if converting dvi to pdf by dvipdf directly. 
              Two successful methods provided here.
+             Noting that GSview should be opened in WinEdt directly. Otherwise, only i. will work.
              i.  Convert dvi to ps; Open ps in GSview; 
                  Write as pdf by pdfwrite in GSviw (Convert).
              ii. Convert dvi to ps; Open ps in GSview; 
