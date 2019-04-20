@@ -58,7 +58,9 @@ Solutions:
           initexmf --mkmaps --verbose
       (4) Now the tex file should be compiled successfully by Pdftexify or Texify in WinEdt.
           a. Pdftexify will generate pdf without any problem directly.
-          b. We can config WinEdt to use the Tex package of Texlive. In >Options>Configurations, we can choose which Latex release we use in WinEdt. It can also works well by choosing the installed texlive.
+          b. We can config WinEdt to use the Tex package of Texlive. 
+             In >Options>Configurations, we can choose which Latex release we use in WinEdt. 
+             It can also works well by choosing the installed texlive.
           c. Texify generates a dvi file. However, the pdf file is not complete if converting dvi to pdf by dvipdf directly. 
              Two successful methods provided here.
              Noting that GSview should be opened in WinEdt directly. Otherwise, only i. will work.
