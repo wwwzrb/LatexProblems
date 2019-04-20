@@ -58,9 +58,14 @@ Solutions:
           initexmf --mkmaps --verbose
       (4) Now the tex file should be compiled successfully by Pdftexify or Texify in WinEdt.
           a. Pdftexify will generate pdf without any problem directly.
-          b. Texify generates a dvi file. However, the pdf file is not complete if converting dvi to pdf by dvipdf directly. Two successful methods provided here.
-             i.  Convert dvi to ps; Open ps in GSview; Write as pdf by pdfwrite in GSviw (Convert).
-             ii. Convert dvi to ps; Open os in GSview; Write as eps by ps2write in GSviw (Convert); Convert eps to pdf by Adobe.
+          b. Texify generates a dvi file. However, the pdf file is not complete if converting dvi to pdf by dvipdf directly. 
+             Two successful methods provided here.
+             i.  Convert dvi to ps; Open ps in GSview; 
+                 Write as pdf by pdfwrite in GSviw (Convert).
+             ii. Convert dvi to ps; 
+                 Open os in GSview; 
+                 Write as eps by ps2write in GSviw (Convert); 
+                 Convert eps to pdf by Adobe.
           
   References:
   
